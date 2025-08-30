@@ -73,6 +73,12 @@ X_test (features), y_test (outputs/labels)
 
 clf = DecisionTreeClassifier()
 clf.fit(X_train, y_train)
+clf.score(X_test, y_test)
+```
+# Neighbors models
+## K Neighbors Classifier
+```
+from sklearn.neighbors import KNeighborsClassifier
 
 
 ```
