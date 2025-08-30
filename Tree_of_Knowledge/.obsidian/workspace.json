@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "81c94bbf96bf5ac5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c558061b2e762306",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fa2ab22561ce071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-study-vault 1/MLOps initial study.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MLOps initial study"
+            }
+          },
+          {
+            "id": "2bc0f208f33dc6d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-study-vault 1/ML models essentials.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ML models essentials"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a88d347b5ec39be0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ec25af7c314ab7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad237810e59b934e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8b6416c4033bed24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "abd7e784feec92f0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "511c10ed946ac02b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8368aab9c43815a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e13822cf3e1bc58f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian-study-vault 1/MLOps course.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MLOps course"
+            }
+          },
+          {
+            "id": "74055a22ff5c0996",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "obsidian-study-vault 1/MLOps course.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MLOps course"
+            }
+          },
+          {
+            "id": "5e24e14eb251620b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b5264bb96a1364b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidian-study-vault 1/MLOps course.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MLOps course"
+            }
+          },
+          {
+            "id": "78f6abd3fcfa553e",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "obsidian-study-vault 1/MLOps course.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "5ca8c191472767c9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ad237810e59b934e",
+  "lastOpenFiles": [
+    "obsidian-study-vault 1/ML models essentials.md",
+    "obsidian-study-vault/study.git/study.git.md",
+    "obsidian-study-vault/study.git",
+    "obsidian-study-vault 1/MLOps course.md",
+    "obsidian-study-vault 1/MLOps initial study.md",
+    "obsidian-study-vault/Anaconda on Github.md",
+    "obsidian-study-vault 1/Figures/Pasted image 20250824173440.png",
+    "obsidian-study-vault 1/Figures/Pasted image 20250824173437.png",
+    "obsidian-study-vault 1/Figures/Pasted image 20250824173255.png",
+    "obsidian-study-vault 1/Figures/Pasted image 20250824173214.png",
+    "obsidian-study-vault 1/Figures/Pasted image 20250824172915.png",
+    "obsidian-study-vault 1/Figures/Pasted image 20250824172309.png",
+    "obsidian-study-vault 1/Figures/Pasted image 20250823152612.png",
+    "obsidian-study-vault 1/Figures/Pasted image 20250823145747.png",
+    "obsidian-study-vault 1/Figures/Pasted image 20250823145716.png",
+    "obsidian-study-vault 1/Open Terminal in VS Code.md",
+    "obsidian-study-vault 1/Machine Learning Pipelines.md",
+    "obsidian-study-vault 1/Machine Learning operations maturity model.md",
+    "obsidian-study-vault 1/Machine Learning Experiment Tracking.md",
+    "obsidian-study-vault 1/Git commands.md",
+    "obsidian-study-vault 1/Github codespaces.md",
+    "obsidian-study-vault 1/Figures",
+    "obsidian-study-vault 1/Dataframes to dictionaries.md",
+    "obsidian-study-vault 1/Check versions of packages in python.md",
+    "obsidian-study-vault 1/Anaconda on Github.md",
+    "obsidian-study-vault 1",
+    "obsidian-study-vault/Machine Learning Pipelines.md",
+    "obsidian-study-vault",
+    "obsidian-study-vault/Machine Learning operations maturity model.md",
+    "obsidian-study-vault/MLOps initial study.md",
+    "obsidian-study-vault/Machine Learning Experiment Tracking.md",
+    "obsidian-study-vault/Github codespaces.md",
+    "obsidian-study-vault/Git commands.md",
+    "obsidian-study-vault/Figures/Pasted image 20250823145716.png",
+    "obsidian-study-vault/Figures",
+    "obsidian-study-vault/Dataframes to dictionaries.md",
+    "obsidian-study-vault/Check versions of packages in python.md",
+    "obsidian-study-vault/Open Terminal in VS Code.md"
+  ]
+}

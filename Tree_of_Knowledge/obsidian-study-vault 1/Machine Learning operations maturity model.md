@@ -1,0 +1,13 @@
+
+Microsoft defines MLOps maturity in a range of 0 (no maturity level) to 4 (full maturity level)¹.
+
+| Level | Description             | Has                                                                                                                                                         | Doesn't have                                                                                             | Recommendation                                   |
+| ----- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| 0     | No MLOps                | Code in Jupyter Notebook                                                                                                                                    | Automation                                                                                               | Only do POCs                                     |
+| 1     | Has DevOps but no MLOps | DevOps best practices:<br>- Releases are automated<br>- Unit & integration tests<br>- CI/CD<br>- Ops metrics                                                | - Experiment tracking<br>- Reproducibility<br>- Collaboration between data scientists and data engineers | Already goes to production                       |
+| 2     | Automated training      | - Training pipeline<br>- Experiment tracking<br>- Model registry<br>- Low friction deployment<br>- Collaboration between data scientists and data engineers |                                                                                                          | Has 2 to 3 ML cases                              |
+| 3     | Automated deployment    | - Easy to deploy model<br>- Can do A/B testing through models                                                                                               |                                                                                                          | Has 5 to 6 ML cases or at least one critical one |
+| 4     | Full MLOps automation   |                                                                                                                                                             |                                                                                                          |                                                  |
+
+
+¹ https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/mlops-maturity-model
