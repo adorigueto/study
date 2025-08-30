@@ -1,1 +1,0 @@
-In Github it is possible to use a codespace! It already comes with lots of tools installed and VS Code as the IDE. You can also open VS Code in desktop.

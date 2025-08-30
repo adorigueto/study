@@ -1,5 +1,5 @@
 
-Microsoft defines MLOps maturity in a range of 0 (no maturity level) to 4 (full maturity level)¹.
+Microsoft defines #MLOps maturity in a range of 0 (no maturity level) to 4 (full maturity level)¹.
 
 | Level | Description             | Has                                                                                                                                                         | Doesn't have                                                                                             | Recommendation                                   |
 | ----- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
